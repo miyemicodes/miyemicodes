@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @miyemicodes
+- 👋 Hi, I’m Elizabeth Godfrey @miyemicodes
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning HTML, CSS and JS
 - 💞️ I’m looking to collaborate on Frontend development
