@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elizabeth Godfrey @miyemicodes
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning HTML, CSS and JS
+- 🌱 I’m currently learning HTML, CSS, JS and REACT
 - 💞️ I’m looking to collaborate on Frontend development
 - 📫 How to reach me `email: lizzymiyemi@gmail.com`
 
