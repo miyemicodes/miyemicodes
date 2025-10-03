@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Elizabeth Godfrey @miyemicodes
+- 👋 Hi, I’m Elizabeth Godfrey @miyemi
 - 👀 I’m a Junior Frontend Developer
 - 🌱 My stacks HTML, CSS, TAILWIND CSS, BOOTSTRAP, JS ,REACTJS and NEXT.JS.
 - 💞️ I’m looking to collaborate on Frontend development
